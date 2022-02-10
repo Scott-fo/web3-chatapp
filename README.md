@@ -1,8 +1,8 @@
-Web 3.0 Chat App built using:
+# Web 3.0 Chat App built using:
 
-Moralis backend
+* Moralis backend
+* NextJS
+* TailwindCSS
 
-NextJS
- 
-TailwindCSS
+Build available at: https://scottfo-chatapp.vercel.app/
 
